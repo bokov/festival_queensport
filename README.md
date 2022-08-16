@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Welcome to Festival Queensport!
 
 You can use the [editor on GitHub](https://github.com/bokov-andrew/festival_queensport/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
